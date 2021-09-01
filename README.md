@@ -27,8 +27,8 @@ I’m a MERN stack Web developer who is passionate about making error-free websi
 
 <h3 align="left">☕ Connect with me!</h3>
 <p align="left">
-<a href="https://fb.com/facebook.com/shajib729" target="blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-<a href="https://linkedin.com/in/linkedin.com/shajib729" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/shajib729" /></a>
+<a href="https://fb.com/facebook.com/shajib729" target="_blank"><img align="center" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+<a href="https://linkedin.com/in/linkedin.com/shajib729" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin.com/shajib729" /></a>
 <a href="https://www.instagram.com/shadowlessson/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="https://www.instagram.com/shadowlessson/" /></a>
 <a href="https://codepen.io/@shajib729" target="blank"><img align="center" src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="@shajib729" /></a>
 <a href="https://codesandbox.com/shajib729" target="blank"><img align="center" src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="shajib729" /></a>
