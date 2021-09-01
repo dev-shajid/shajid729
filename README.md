@@ -1,9 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shajib</h1>
-<h3 align="center">A passionate mern stack web developer from Bangladesh🥰</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shajib729&label=Profile%20views&color=0e75b6&style=flat" alt="shajib729" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajib729" alt="shajib729" /></a> </p>
+<h3 align="center">A passionate MERN stack web developer from this small World🥰</h3>
 
 - 🔭 I’m currently working on **My Own Project😴**
 
@@ -21,8 +17,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/@shajib729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shajib729" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/linkedin.com/shajib729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/shajib729" height="30" width="40" /></a>
+<a href="https://codesandbox.com/shajib729" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="shajib729" height="30" width="40" /></a>
 <a href="https://fb.com/facebook.com/shajib729" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook.com/shajib729" height="30" width="40" /></a>
+<a href="https://medium.com/@sajidislam_23087" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sajidislam_23087" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -31,3 +30,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shajib729&show_icons=true&locale=en&layout=compact" alt="shajib729" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shajib729&show_icons=true&locale=en" alt="shajib729" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shajib729&label=Profile%20views&color=0e75b6&style=flat" alt="shajib729" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shajib729" alt="shajib729" /></a> </p>
