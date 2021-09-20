@@ -13,9 +13,7 @@ I’m a MERN stack Web developer who is passionate about making error-free websi
 
 - 👯 I’m looking to collaborate on **Any Project I can**
 
-- 👨‍💻 All of my projects are available at [https://.shajib.xyz](https://.shajib.xyz)
-
-- 💬 Ask me about **MERN Stack**
+- 💬 Ask me about **React JS**
 
 - 📫 How to reach me **sajidislam729@gmail.com**
 
