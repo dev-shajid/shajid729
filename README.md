@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **React JS**
 
-- 📫 How to reach me **sajidislam729@gmail.com**
+- 📫 How to reach me **dev.shajid@gmail.com**
 
 - ⚡ Fun fact **No more Fun**
 
